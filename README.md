@@ -3,9 +3,6 @@
 I'm a computer science student
 from bavaria :beers: who loves simplifying life with `automation` :robot:.
 
-`kastldratza` <> `device teaser`
-
-
 ### Donations
 Feel free. However, if you want to support me and the development, I have some crypto addresses here.
 
