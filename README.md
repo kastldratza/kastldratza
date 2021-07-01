@@ -4,7 +4,7 @@ I'm a computer science student
 from bavaria :beers: who loves simplifying life with `automation` :robot:.
 
 ### Donations
-Feel free. However, if you want to support me and the development, I have some crypto addresses here.
+Feel free. However, if you want to support me and my work, I have some crypto addresses here.
 
 name | address
 ------------ | -------------
