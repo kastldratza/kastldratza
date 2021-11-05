@@ -3,7 +3,7 @@
 I'm a computer science student
 from bavaria :beers: who loves simplifying life with `automation` :robot:.
 
-- 📫 kastldratza(at)aol.com
+- 📫 kastldratza(at)protonmail.com
 
 ---
 
