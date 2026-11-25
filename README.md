@@ -2,7 +2,7 @@
 
 Software Developer / DevOps Engineer from Bavaria 🍺 — I like making life easier through automation.
 
-**Stack:** Docker · Linux · AWS · Terraform · Bash · PowerShell · Python · Java · Jenkins
+**Stack:** Linux · Containers · Cloud · Infrastructure as Code · CI/CD · Scripting
 
 **Contact:** kastldratza(at)protonmail.com
 
