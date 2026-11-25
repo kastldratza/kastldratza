@@ -4,8 +4,6 @@ Software Developer / DevOps Engineer from Bavaria 🍺 — I like making life ea
 
 **Stack:** Docker · Linux · AWS · Terraform · Bash · PowerShell · Python · Java · Jenkins
 
-**Project:** [zoomrec](https://github.com/kastldratza/zoomrec) — record Zoom meetings automatically in a headless Docker container (archived)
-
 **Contact:** kastldratza(at)protonmail.com
 
 <details>
